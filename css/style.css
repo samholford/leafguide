@@ -1,16 +1,39 @@
-.collection a.collection-item {
-	color: #ffab40;
+header, main, footer {
+  padding-left: 300px;
 }
 
-nav.top-nav a.page-title {
-	font-size: 48px;
+@media only screen and (max-width : 992px) {
+  header, main, footer {
+    padding-left: 0;
+  }
 }
 
-nav.top-nav {
-	min-height: 122px;
-	padding-top: 30px;
+@media only screen and (min-width: 993px) {
+    .container {
+        width: 85%
+    }
 }
 
-nav {
-	height: auto;
+h2,
+h5,
+h6,
+.brand-logo {
+	font-weight: 300;
+}
+
+h6 {
+	font-size: 1.1rem;
+}
+
+.brand-sub {
+	font-size: small;
+}
+
+.spacer {
+	display: block;
+	height: 15px;
+}
+
+.pad-top {
+	padding-top: 15px;
 }
