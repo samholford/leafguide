@@ -4,8 +4,5 @@ A dual purpose project: A guide to the Nissan Leaf and a Materialize boilerplate
 
 Contributions welcome via github, Disqus comments or email.
 
-## To do
-* Devaluation
-* Videos
-* Nice touches
-* Zoe comparison
+
+
