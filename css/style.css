@@ -37,3 +37,7 @@ h6 {
 .pad-top {
 	padding-top: 15px;
 }
+
+.white-text a {
+	color: #fff;
+}
